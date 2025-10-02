@@ -1,0 +1,22 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env
+
+# Auto-generated results and reports
+# The repository should contain the CODE to REPRODUCE these, not the files themselves.
+# If you want to show them, add the final PNGs to the README.
+resultados/
+relatorio/*.pdf
+
+# IDE-specific files
+.vscode/
+.idea/
+*.DS_Store
