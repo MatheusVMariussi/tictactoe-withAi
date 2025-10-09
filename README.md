@@ -59,10 +59,6 @@ TDE2-Minimax-AlphaBeta/
 
 ## 🚀 Como Executar
 
-### 1. Partida Demonstrativa
-
-Execute uma partida única entre Minimax e Alpha-Beta:
-
 ```bash
 python tictactoe_5x5.py
 ```
