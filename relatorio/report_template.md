@@ -1,8 +1,9 @@
 # TDE 2 – Busca Competitiva: Minimax vs Poda Alfa-Beta
 
 **Disciplina:** Inteligência Artificial  
-**Aluno(s):** Matheus Vinicius Mariussi
-
+**Aluno(s):** 
+Matheus Vinicius Mariussi
+Leandro Medeiros
 ---
 
 ## 1. Introdução
